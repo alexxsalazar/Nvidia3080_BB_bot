@@ -3,13 +3,13 @@ Originally I had intended this bot to only be used by me but nvidia bot situatio
 **Before starting the please read the following section.**
 
 **You need 2 things for this bot to work**
-1. A virtual card. You can get these from privacy.command
+1. A virtual card. You can get these from privacy.com
 2. Web cookie after valid sensor data has been sent by the browser
 
 **What cookie?**
 
 [Here is a picture of what the cookie values will look like](https://imgs.developpaper.com/imgs/2561717502-cccff2c795e46080_articlex.png).
-Notice that the _abck cookie has a 1 value in between the first ~ ~. Make sure that when you copy your _abck it has a 0 value inside. Keep browsing until that area has a 0. You're going to paste all your cookies in data/sensor_data_cookie.json . Some of you might be wondering why this has to be done this way. The reason is that sensor data is trasnmitted from your browser to the server to in a sense legitimize that you are not a bot. The way this sensor data is produced changes over time so I felt like this was the most reliable way to inject it in. Every couple hours you will have to change the cookies used. I like to do this is use an incognito window, surf Best Buy a bit and copy the cookie. Apparently this is popular in the shoe bot wor
+Notice that the _abck cookie has a 1 value in between the first ~ ~. Make sure that when you copy your _abck it has a 0 value inside. Keep browsing until that area has a 0. You're going to paste all your cookies in data/sensor_data_cookie.json . Some of you might be wondering why this has to be done this way. The reason is that sensor data is trasnmitted from your browser to the server to in a sense legitimize that you are not a bot. The way this sensor data is produced changes over time so I felt like this was the most reliable way to inject it in. Every couple hours you will have to change the cookies used. I like to do this is use an incognito window, surf Best Buy a bit and copy the cookie. 
 
 **Why do I need a virtual card?**
 
