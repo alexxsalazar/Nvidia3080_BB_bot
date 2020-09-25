@@ -1,7 +1,6 @@
 ## PURPOSE
 Originally I had intended this bot to only be used by me but nvidia bot situation is crazy so I thought I would level the playing field by releasing this. I do not intend to maintain this project. I am publishing this to hopefully help people create their own bots for these sites. I don't make bots to purchase items so if you have any questions or suggestions feel free to reach out to me. This bot is for Best Buy. I feel like most other bots have been made by the community this seems to be the only one missing.
 
-**Before starting the please read the following section.**
 
 ## Requirements
 **You need 2 things for this bot to work**
