@@ -23,7 +23,7 @@ To build install the requirements and then use the command
 
 This open up a GUI. If you look up bird bot on github you can look through the documentation they made for their GUI. The GUI works the same way. Just different bot. 
 
-Please be responsible when using this. Use it only for yourself. Don't scalp.
+Please be responsible when using this. Use it only for yourself. Don't be a scalper pls.
 
 **Again please feel free to use the code bot code in your own bots. Look through the API calls it makes.** 
 
