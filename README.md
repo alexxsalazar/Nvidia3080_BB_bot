@@ -27,5 +27,5 @@ Please be responsible when using this. Use it only for yourself. Don't be a scal
 
 **Again please feel free to use the code bot code in your own bots. Look through the API calls it makes.** 
 
-## CREDITS
+## Credits
 **Also I would like to give credit to the BirdBot repository created by Nate Wong and contributors. Even though it has an MIT license I feel this is neccesary because I really liked their GUI and the project. It is no longer being maintained so please do not bother them with questions. I fixed up the actual bot portion. I kept their GUI.**
