@@ -12,7 +12,14 @@ Edit: If there's something wrong with right now or in the next weeks I'll fix it
 **What cookie?**
 
 [Here is a picture of what the cookie values will look like](https://imgs.developpaper.com/imgs/2561717502-cccff2c795e46080_articlex.png).
-Notice that the _abck cookie has a 1 value in between the first ~ ~. Make sure that when you copy your _abck it has a 0 value inside. Keep browsing until that area has a 0. You're going to paste all your cookies in data/sensor_data_cookie.json . Some of you might be wondering why this has to be done this way. The reason is that sensor data is trasnmitted from your browser to the server to in a sense legitimize that you are not a bot. The way this sensor data is produced changes over time so I felt like this was the most reliable way to inject it in. Every couple hours you will have to change the cookies used. I like to do this is use an incognito window, surf Best Buy a bit and copy the cookie. You need to copy all the cookies and paste them. The format is a giant string like "cookie:value;cookie:value;cookie:value etc". You can grab this using something like burp or even your browser dev tools. 
+Notice that the _abck cookie has a 1 value in between the first ~ ~. Make sure that when you copy your _abck it has a 0 value inside. Keep browsing until that area has a 0. You're going to paste all your cookies in data/sensor_data_cookie.txt . Some of you might be wondering why this has to be done this way. The reason is that sensor data is trasnmitted from your browser to the server to in a sense legitimize that you are not a bot. The way this sensor data is produced changes over time so I felt like this was the most reliable way to inject it in. Every couple hours you will have to change the cookies used. I like to do this is use an incognito window, surf Best Buy a bit and copy the cookie. You need to copy all the cookies and paste them. The format is a giant string like "cookie:value;cookie:value;cookie:value etc". You can grab this using something like burp or even your browser dev tools. 
+
+**Easiest way to get cookie?**
+
+Sorry I tend to go on tangents because I enjoy explaining things in detail but here is tdlr:
+1. Make sure _abck cookie has 0 in between ~ ~
+2. Go on browser dev tools console and type in document.cookie. (I use burp but this using browser tools makes most sense)
+3. Paste output in data/sensor_data_cookie.txt
 
 **Why do I need a virtual card?**
 
