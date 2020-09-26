@@ -1,4 +1,4 @@
-## PURPOSE
+## Purpose
 I made this bot to get myself a card but nvidia bot situation is crazy so I thought I would level the playing field by releasing this. I do not intend to maintain this project. I am publishing this to hopefully help people create their own bots. I don't usually make bots to purchase items but if you have any questions or suggestions feel free to reach out to me. This bot is for Best Buy. I feel like most other bots have been made by the community, this seems to be the only one missing.
 
 Edit: If there's something wrong with right now or in the next weeks I'll fix it up. What I mean by not being maintained is that don't count on it working a year from now. Sorry, just had to clarify since I have been getting some questions.
