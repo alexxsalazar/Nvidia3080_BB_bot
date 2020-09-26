@@ -27,7 +27,7 @@ This open up a GUI. If you look up bird bot on github you can look through the d
 
 Please be responsible when using this. Use it only for yourself. Don't be a scalper pls.
 
-**Again please feel free to use the code bot code in your own bots. Look through the calls it makes.** 
+**Again please feel free to use the bot code in your own bots. Look through the calls it makes.** 
 
 ## Credits
 **Also I would like to give credit to the BirdBot repository created by Nate Wong and contributors. Even though it has an MIT license I feel this is neccesary because I really liked their GUI and the project. It is no longer being maintained so please do not bother them with questions. I fixed up the actual bot portion. I kept their GUI.**
