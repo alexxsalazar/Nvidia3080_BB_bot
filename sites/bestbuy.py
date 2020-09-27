@@ -78,7 +78,7 @@ class BestBuy:
                 if r.status_code == 200:
                     doc = lxml.html.fromstring(r.text)
                     if not image_found:
-                        self.sku_id = doc.xpath('//span[@class="product-data-value body-copy"]/text()')[1].strip()
+                        self.sku_id = doc.xpath('//div[@class="sku product-data"]/span[@class="product-data-value body-copy"]/text()')[0].strip()
                         product_image = doc.xpath('//img[@class="primary-image"]/@src')[0]
                         self.image_signal.emit(product_image)
                         image_found = True
